@@ -31,7 +31,7 @@ I enjoy working with Excel, Power BI, SQL, and Python to uncover trends, visuali
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/omydahima/)
 - [WhatsApp](https://wa.me/919829405064/)
-- [Email](drive.omy@gmail.com)
+- [Email](mailto:drive.omy@gmail.com)
 
 ---
 
